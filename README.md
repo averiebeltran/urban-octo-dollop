@@ -6,7 +6,9 @@
 
 ### Application Deployment
 
-https://infinite-meadow-54635.herokuapp.com/
+Walkthrough video: https://drive.google.com/file/d/1PU-LPqUt230MHSoGUKaMG2dEmNli2o9S/view
+
+Deployed App (has application error): https://infinite-meadow-54635.herokuapp.com/
 
 ### Application Screenshot
 
