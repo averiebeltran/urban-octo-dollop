@@ -6,7 +6,7 @@
 
 ### Application Deployment
 
-https://mvc-tech-blog.herokuapp.com/
+https://infinite-meadow-54635.herokuapp.com/
 
 ### Application Screenshot
 
@@ -60,10 +60,19 @@ THEN I am automatically signed out of the site
 
 ### Installation Guidelines
 
+- Clone the repo
+- In the root of the project, run ```npm install```
 - Add a .env file to the root of the project
 
-```text
+```
 DB_NAME='tech_blog_db'
 DB_USER='root'
 DB_PW='XXX'
 ```
+
+- Open a new terminal window, start your mysql database ```mysql -u root -p```
+- Enter your password (same as DB_USER)
+- Create the database ```CREATE DATABASE tech_blog_db;```
+- Return to the first terminal, in the root of the project run ```npm run seed```
+- Once the database is seeded run ```npm run start```
+- View on port 3001
