@@ -10,7 +10,7 @@ https://mvc-tech-blog.herokuapp.com/
 
 ### Application Screenshot
 
-![](images/mvc-tech-blog.png)
+![](https://github.com/averiebeltran/urban-octo-dollop/blob/master/Tech_Blog.png)
   
 ### User Story
 
