@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/mvc-tech-blog.git"
+    "url": "git+https://github.com/averiebeltran/urban-octo-dollop.git"
   },
-  "author": "Priya Ravi",
+  "author": "Averie Beltran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/mvc-tech-blog/issues"
+    "url": "https://github.com/averiebeltran/urban-octo-dollop/issues"
   },
-  "homepage": "https://github.com/priyaravi23/mvc-tech-blog#readme",
+  "homepage": "https://github.com/averiebeltran/urban-octo-dollop/blob/master/README.md#mvc-tech-blog",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",

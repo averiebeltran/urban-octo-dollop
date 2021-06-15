@@ -2,46 +2,34 @@ const { User } = require('../models');
 
 const userData = [
     {
-        username: "martin_bour",
-        twitter: "martinb",
-        github: "martinb",
-        email: "martin_b@gmail.com",
-        password: "p@ssword1"
+        username: "khloe_kardashian",
+        github: "khloek",
+        email: "khloe_k@yahoo.com",
+        password: "ilovekim"
     },
     {
-        username: "matt_b",
-        twitter: "mathewb",
-        github: "mathewb",
-        email: "mathew_b@gmail.com",
-        password: "p@ssword2"
+        username: "koutney_kardashian",
+        github: "kourtk",
+        email: "kourt_k@yahoo.com",
+        password: "ilovescott"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
-        password: "p@ssword3"
+        username: "kim_kardashian",
+        github: "kimk",
+        email: "kim_k@yahoo.com",
+        password: "idontlovekanye"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
-        password: "p@ssword4"
+        username: "kylie_jenner",
+        github: "kyliej",
+        email: "kylie_j@yahoo.com",
+        password: "ilovestormi"
     },
     {
-        username: "priya_r",
-        twitter: "priyaravi23",
-        github: "priyaravi23",
-        email: "priya_r@gmail.com",
-        password: "p@ssword5"
-    },
-    {
-        username: "pooja",
-        twitter: "pooja_w",
-        github: "pooja",
-        email: "pooja@gmail.com",
-        password: "p@ssword6"
+        username: "kendall_jenner",
+        github: "kendallk",
+        email: "kendall_j@yahoo.com",
+        password: "ilovemodels"
     }
 ]
 
